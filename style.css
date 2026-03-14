@@ -1,0 +1,46 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem;
+    text-align: center;
+}
+
+.search-container {
+    margin-top: 1rem;
+}
+
+#category-search {
+    width: 300px;
+    padding: 0.5rem;
+}
+
+#schedule-container {
+    width: 80%;
+    margin: 2rem auto;
+}
+
+.talk {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 1.5rem;
+    margin-bottom: 1.5rem;
+    border-radius: 5px;
+}
+
+.talk h2 {
+    margin-top: 0;
+}
+
+.talk p {
+    margin-bottom: 0.5rem;
+}
+.talk-time {
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
